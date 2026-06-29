@@ -1,1 +1,1 @@
-This is a practice assessement on Linux commands.
+This is a practice assessment on Linux commands.
